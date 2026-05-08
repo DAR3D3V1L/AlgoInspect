@@ -1,6 +1,6 @@
 # AlgoInspect ⚡
 
-An AI-powered tool that analyzes your LeetCode solutions — gives you time/space complexity, approach breakdown, optimization tips, edge cases, and more.
+An AI-powered tool that analyzes your solutions gives you time/space complexity, approach breakdown, optimization tips, edge cases, and more.
 
 I originally built this for my own personal use while practicing DSA. I kept copy-pasting my code into ChatGPT just to get complexity analysis and it was getting annoying, so I made this. Figured someone else might find it useful too, so here it is.
 
@@ -8,7 +8,7 @@ I originally built this for my own personal use while practicing DSA. I kept cop
 
 ## What it does
 
-Paste your code, pick your language, hit Analyze — you get:
+Paste your code, pick your language, hit Analyze you get:
 
 - **Time & Space Complexity** with a plain-English note
 - **Efficiency rating** (1–10) with a visual bar
