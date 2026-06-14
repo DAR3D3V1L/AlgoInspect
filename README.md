@@ -76,11 +76,11 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## Screenshots
 
-![Analyzer Tab](imgs/Screenshot%202026-06-14%20112333.png)
+![Analyzer Tab](src/assets/Screenshot%202026-06-14%20112333.png)
 
-![Analysis Results](imgs/Screenshot%202026-06-14%20112520.png)
+![Analysis Results](src/assets/Screenshot%202026-06-14%20112520.png)
 
-![Stats/History View](imgs/Screenshot%202026-06-14%20112529.png)
+![Stats/History View](src/assets/Screenshot%202026-06-14%20112529.png)
 
 ---
 
