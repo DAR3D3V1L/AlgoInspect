@@ -76,11 +76,11 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## Screenshots
 
-> Analyzer tab — paste your code and get instant AI feedback
+![Analyzer Tab](imgs/Screenshot%202026-06-14%20112333.png)
 
-> History tab — all your past analyses saved locally
+![Analysis Results](imgs/Screenshot%202026-06-14%20112520.png)
 
-> Stats tab — quick overview of how your solutions have been performing
+![Stats/History View](imgs/Screenshot%202026-06-14%20112529.png)
 
 ---
 
