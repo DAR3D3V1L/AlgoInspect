@@ -1,6 +1,6 @@
 # AlgoInspect ⚡
 
-An AI-powered tool that analyzes your LeetCode solutions — gives you time/space complexity, approach breakdown, optimization tips, edge cases, and more.
+An AI-powered tool that analyzes your Algo/Code and gives you time/space complexity, approach breakdown, optimization tips, edge cases, and more.
 
 I originally built this for my own personal use while practicing DSA. I kept copy-pasting my code into ChatGPT just to get complexity analysis and it was getting annoying, so I made this. Figured someone else might find it useful too, so here it is.
 
@@ -76,11 +76,11 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## Screenshots
 
-![Analyzer Tab](src/assets/Screenshot%202026-06-14%20112333.png)
+![Analyzer Tab](src/assets/1.png)
 
-![Analysis Results](src/assets/Screenshot%202026-06-14%20112520.png)
+![Analysis Results](src/assets/2.png)
 
-![Stats/History View](src/assets/Screenshot%202026-06-14%20112529.png)
+![Stats/History View](src/assets/3.png)
 
 ---
 
@@ -108,9 +108,4 @@ src/
 - The API key is stored in `.env` — **never commit that file**. The `.gitignore` already excludes it.
 - All history data is local to your browser. Nothing is sent to any server except the Groq API for analysis.
 - Groq's free tier has rate limits. If you hit one, just wait a few seconds and try again.
-
----
-
-## License
-
-MIT — do whatever you want with it.
+****
